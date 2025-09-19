@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import MovieRow from './components/MovieRow';
 import TrailerModal from './components/TrailerModel';
 
-const API_KEY = 'd2e4c40073889527da2dd0aeadc2cb25';
+const API_KEY = '730e32033b2e4f3dae253f890436ec81';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500';
 const BACKDROP_BASE_URL = 'https://image.tmdb.org/t/p/original';
